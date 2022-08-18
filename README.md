@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Ilham 👋
+
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me: ilham.ysf276@gmail.com
 
 <!--
 **ilhamyusuf27/ilhamyusuf27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
