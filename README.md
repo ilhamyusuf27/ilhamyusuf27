@@ -8,7 +8,7 @@
 - 🌱 I'm learning and growing in **JavaScript** and its ecosystem
 - 💬 Ask me about **React, Next.js, or anything Frontend**
 - 📫 Reach me at: **hello@ilhamya.dev**
-- ⚡ Fun fact: [Add an interesting fact about yourself!]
+- ⚡ Fun fact: I transitioned to programming from motion designer
 
 ## 🛠️ Tech Stack
 <p align="left">
