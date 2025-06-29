@@ -7,7 +7,7 @@
 - 🔭 I'm currently working on building modern web applications
 - 🌱 I'm learning and growing in **JavaScript** and its ecosystem
 - 💬 Ask me about **React, Next.js, or anything Frontend**
-- 📫 Reach me at: **hello@ilhamya.dev**
+- 📫 Reach me at: **ilhamyusuf276@gmail.com**
 - ⚡ Fun fact: I transitioned to programming from motion designer
 
 ## 🛠️ Tech Stack
