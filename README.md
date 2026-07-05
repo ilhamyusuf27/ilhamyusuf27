@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=7AA2F7&center=true&vCenter=true&width=500&lines=Building+things+with+React+%26+Next.js;ex-Motion+Designer+turned+Developer;JavaScript+%E2%86%92+TypeScript+%E2%86%92+what%27s+next%3F;Always+tinkering+with+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=7AA2F7&center=true&vCenter=true&width=500&lines=Building+things+with+React+%26+Next.js;JavaScript+%E2%86%92+TypeScript+%E2%86%92+what%27s+next%3F;Frontend+dev+%7C+Yogyakarta+%F0%9F%87%AE%F0%9F%87%A9;Always+tinkering+with+something+new)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilhamyusufalghani/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ilhamysfa)
@@ -15,10 +15,9 @@
 
 ## About Me
 
-I'm a frontend developer from Yogyakarta who started out as a motion designer — turns out pixels and code aren't that different. I mainly work with React and Next.js, and I'm steadily growing into the backend world too.
+I'm a frontend developer from Yogyakarta. I mainly work with React and Next.js, and I'm steadily growing into the backend world too.
 
 - Working with **React**, **Next.js**, and the broader JS ecosystem
-- Came from **motion design** — still think in animations and visuals
 - Exploring **backend** (Node, NestJS) and getting comfortable with databases
 - Reach me at **ilhamyusuf276@gmail.com**
 
