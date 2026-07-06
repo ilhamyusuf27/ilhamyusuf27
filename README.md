@@ -78,12 +78,14 @@ I'm a frontend developer from Yogyakarta. I mainly work with React and Next.js, 
     </td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></td>
+    <td valign="top"><img src="https://img.shields.io/badge/Operating_System-FCC624?style=flat-square&logoColor=black"/></td>
     <td valign="top">
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
       <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/>
       <img src="https://img.shields.io/badge/EndeavourOS-7B4FBF?style=flat-square&logo=endeavouros&logoColor=white"/>
       <img src="https://img.shields.io/badge/PikaOS-1A91DA?style=flat-square&logo=ubuntu&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"/>
+      <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/>
     </td>
   </tr>
 </table>
