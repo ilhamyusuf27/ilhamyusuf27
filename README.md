@@ -78,6 +78,14 @@ I'm a frontend developer from Yogyakarta. I mainly work with React and Next.js, 
     </td>
   </tr>
   <tr>
+    <td valign="top"><img src="https://img.shields.io/badge/AI_Agents-412991?style=flat-square&logoColor=white"/></td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Antigravity_CLI-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hermes-1A1B27?style=flat-square&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
     <td valign="top"><img src="https://img.shields.io/badge/Operating_System-FCC624?style=flat-square&logoColor=black"/></td>
     <td valign="top">
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
