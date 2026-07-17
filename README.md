@@ -182,25 +182,6 @@ I'm a frontend developer from Yogyakarta. I mainly work with React and Next.js, 
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilhamyusuf27&theme=tokyonight" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilhamyusuf27&theme=tokyonight" height="160em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ilhamyusuf27&theme=tokyonight" height="160em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilhamyusuf27&theme=tokyonight" height="160em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilhamyusuf27&theme=tokyonight&utcOffset=7" height="160em"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ilhamyusuf27&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ilhamyusuf27&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </div>
